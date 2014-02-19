@@ -1,2 +1,4 @@
-panamax-docker-hubot
+docker-hubot-hipchat
 ====================
+
+Hubot Hipchat Docker
